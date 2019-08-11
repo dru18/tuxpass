@@ -28,9 +28,11 @@ This script needs to have some additional packages to be installed on your syste
 
   `tuxpass`
 
-- **Done.** This will show 5 defferent passwords for you. You can choose the best one or use all if you want.
+- Enter password length how much strong password you want to cut from 48 bytes.
 
   ![tuxpass.png](https://github.com/dru18/tuxpass/blob/master/screenshots/tuxpass.png)
+
+**Done.** This will show 5 defferent passwords for you. You can choose the best one or use all if you want.
 
 - Run the *uninstall.sh* file to uninstall the script and it's dependencies.
 
