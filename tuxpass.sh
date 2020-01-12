@@ -12,5 +12,5 @@ read pass_length
 
 #start for loop for 5 passwords
 for pl in $(seq 5);
-do openssl rand -base64 48 | cut -c1-$pass_length
+do openssl rand -base64 $pass_length
 done | cowsay -f tux | toilet -f term --gay
