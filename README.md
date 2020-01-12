@@ -28,7 +28,7 @@ This script needs to have some additional packages to be installed on your syste
 
   `tuxpass`
 
-- Enter password length how much strong password you want to cut from 48 bytes.
+- Enter password length how much strong password you want in bytes.
 
   ![tuxpass.png](https://github.com/dru18/tuxpass/blob/master/screenshots/tuxpass.png)
 
